@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/LazyDeveloperr/LazyPrincess/blob/master/assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
+  <img src="https://github.com/HarshGodxpro/MovieLand2.0/blob/master/assets/IMG_20221214_213709_306.jpg" alt="Movie  Land Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> 𝑴𝑶𝑽𝑰𝑬 𝑳𝑨𝑵𝑫 BOT </b>
 </h1>
 
 ## ⚡️Features
